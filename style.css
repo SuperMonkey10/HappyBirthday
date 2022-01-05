@@ -1,0 +1,58 @@
+.body_background 
+{
+    background-image:url(balloon.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 10px;
+   background-color: white;
+   border-style: ridge;
+   border-color: darkviolet;
+}
+.button{
+    background-color: palevioletred;
+    width: 120px;
+    height: 70px;
+    border-radius: 15%;
+    color: white;
+}
+#p1{
+    margin-left:600px ;
+    font-weight: bold;
+    color: brown;
+}
+#p2{
+    margin-left:600px ;
+    font-weight: bold;
+    color: brown;
+}
+#p3{
+    margin-left:600px ;
+    font-weight: bold;
+    color: brown;
+}
+#p4{
+    margin-left:600px ;
+    font-weight: bold;
+    color: brown;
+}
+#p5{
+    margin-left:600px ;
+    font-weight: bold;
+    color: brown;
+}
+#p6{
+    margin-left:600px ;
+    font-weight: bold;
+    color: brown;
+}
+#p7{
+    margin-left:600px ;
+    font-weight: bold;
+    color: brown;
+}
+#title{
+    padding-left: 600px;
+}
